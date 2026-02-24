@@ -4,6 +4,8 @@
 
 Xyner AI bridges the gap between artificial intelligence and decentralized networks. Automate, analyze, and optimize your entire blockchain experience instantly.
 
+Official CA : GDbN3kntgbrRes2kFKzg9h6RmtgyTcYLrpYE5Ue8pump
+
 ---
 
 ## 🚀 Overview
